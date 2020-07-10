@@ -1,4 +1,8 @@
-### Hi there 👋
+Stuff I'm working on:
+
+- [Interledger](https://interledger.org)
+- [Web Monetization](https://webmonetization.org)
+- [Open Payments](https://openpayments.dev)
 
 <!--
 **adrianhopebailie/adrianhopebailie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
